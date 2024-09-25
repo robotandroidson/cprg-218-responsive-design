@@ -1,0 +1,11 @@
+*{
+    box-sizing:border-box;
+}
+
+body {
+    background-color: rgb(141, 238, 255); 
+}
+
+main {
+    background-color: rgb(197, 215, 255)
+}
